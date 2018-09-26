@@ -1,0 +1,194 @@
+concerts:
+  - date: 2018-12-13T17:14:15+02:00
+    place: TODOqwer
+    link: http://www.coq-d-or.ch/
+    bands:
+      - name: Dummy1qewr
+        link: http://www.unholdmusic.ch/
+      - name: Change thisqwer
+        link: https://www.facebook.com/oregontrailmusic
+  - date: 2018-12-10T17:14:15+02:00
+    place: TODO
+    link: http://www.coq-d-or.ch/
+    bands:
+      - name: Dummy1
+        link: http://www.unholdmusic.ch/
+      - name: Change this
+        link: https://www.facebook.com/oregontrailmusic
+  - date: 2018-12-17T17:14:15+02:00
+    place: TODO2
+    link: http://www.coq-d-or.ch/
+    bands:
+      - name: Dummy13
+        link: http://www.unholdmusic.ch/
+      - name: Change this123
+        link: https://www.facebook.com/oregontrailmusic
+  - date: 2016-12-10T17:14:15+02:00
+    place: Coq d'Or, Olten
+    link: http://www.coq-d-or.ch/
+    bands:
+      - name: Unhold
+        link: http://www.unholdmusic.ch/
+      - name: Oregon Trail
+        link: https://www.facebook.com/oregontrailmusic
+      - name: Zippo
+        link: http://zippomusic.it/
+      - name: Sleep Unit
+        link: https://www.facebook.com/sleep.unit/
+  - date: 2016-12-09T17:14:15+02:00
+    place: Sedel, Luzern
+    link: http://www.sedel.ch/
+    bands:
+      - name: Unhold
+        link: http://www.unholdmusic.ch/
+      - name: Oregon Trail
+        link: https://www.facebook.com/oregontrailmusic
+  - date: 2016-12-15T17:14:15+02:00
+    place: Rössli, Bern
+    link: https://www.souslepont-roessli.ch/
+    bands:
+      - name: Unhold
+        link: http://www.unholdmusic.ch/
+      - name: Wolf Counsel
+        link: http://www.wolfcounsel.net
+  - date: 2016-12-08T17:14:15+02:00
+    place: Dynamo, Zürich
+    link: http://dynamo.ch/
+    bands:
+      - name: Unhold
+        link: http://www.unholdmusic.ch/
+      - name: Zatokrev
+        link: http://www.zatokrev.com/
+  - date: 2016-12-17T17:14:15+02:00
+    place: Gaswerk, Winterthur
+    link: http://gaswerk.ch/
+    bands:
+      - name: Unhold
+        link: http://www.unholdmusic.ch/
+      - name: Khaldera
+        link: http://www.khaldera.com/
+  - date: 2016-07-03T17:14:15+02:00
+    place: Ebrietas, Zürich
+    link: http://ebrietas.ch/
+    bands:
+      - name: Wiegedood
+        link: https://www.facebook.com/wiegedood
+      - name: KER
+        link: https://www.facebook.com/thekercollective
+  - date: 2016-06-18T17:14:15+02:00
+    place: Karlstorbahnhof, Heidelberg
+    link: http://www.karlstorbahnhof.de
+    bands:
+      - name: AHAB
+        link: http://www.ahab-doom.de/
+      - name: Black Shape Of Nexus
+        link: http://www.blackshapeofnexus.com/
+      - name: Boden
+        link: https://bodenpunx.bandcamp.com
+      - name: Void Obelisk
+        link: https://www.facebook.com/VoidObelisk
+  - date: 2016-04-14T17:14:15+02:00
+    place: ISC, Bern
+    link: http://www.isc-club.ch
+    bands:
+      - name: Buried at Sea
+        link: https://www.facebook.com/Buried-at-Sea-58375831421
+  - date: 2016-02-01T17:14:15+02:00
+    place: Dynamo, Zürich
+    link: http://dynamo.ch/
+    bands:
+      - name: Scott Kelly
+        link: https://www.facebook.com/ScottKelly.official/
+      - name: CHVE
+        link: https://www.facebook.com/chveh/
+  - date: 2015-12-18T17:14:15+02:00
+    place: KuZeB, Bremgarten
+    link: http://kuzeb.ch/
+    bands:
+      - name: Kála
+        link: http://kalaposthc.bandcamp.com
+  - date: 2015-09-05T17:14:15+02:00
+    place: Rümpeltum, St. Gallen
+    link: http://www.rumpeltum.ch
+    bands:
+      - name: Carson
+        link: http://www.carsonofficial.com/
+  - date: 2015-12-11T17:14:15+02:00
+    place: Gaswerk, Winterthur
+    link: http://gaswerk.ch
+    bands:
+      - name: Radare
+        link: http://www.radaredoom.com/
+      - name: Rue de Cascades
+        link: https://www.facebook.com/ruedescascades
+  - date: 2015-03-13T17:14:15+02:00
+    place: Salzhaus, Winterthur
+    link: http://salzhaus.ch/
+    bands:
+      - name: Fogel
+        link: http://www.fogel.ch/
+      - name: Rue de Cascades
+        link: https://www.facebook.com/ruedescascades
+  - date: 2015-03-14T17:14:15+02:00
+    place: Block 56, Basel
+    link: https://www.facebook.com/events/1553946778210132
+    bands:
+      - name: Sum of R
+        link: http://www.sumofr.ch/
+  - date: 2014-12-28T17:14:15+02:00
+    place: Villa K, Winterthur
+    link: http://villakwinti.blogspot.ch/
+    bands: []
+  - date: 2014-11-15T17:14:15+02:00
+    place: LAS, Poznan
+    link: https://www.facebook.com/las.poznan
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+  - date: 2014-11-14T17:14:15+02:00
+    place: Tiefgrund, Berlin
+    link: http://www.tiefgrund-venue.com/
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+  - date: 2014-11-12T17:14:15+02:00
+    place: Pohoda Club, Plzen
+    link: https://www.facebook.com/pohodaplzen
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+  - date: 2014-11-11T17:14:15+02:00
+    place: Jazz Rock Café, Cheb
+    link: https://www.facebook.com/pages/Jazz-Rock-Caf%C3%A9-Cheb/266942970072801
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+  - date: 2014-11-10T17:14:15+02:00
+    place: Alte Mälzerei, Regensburg
+    link: http://alte-maelzerei.de
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+      - name: Carrion Mother
+        link: https://carrionmother.bandcamp.com/
+      - name: Motorgoat
+        link: https://motorgoat.bandcamp.com/
+  - date: 2014-11-08T17:14:15+02:00
+    place: Gaswerk, Winterthur
+    link: http://gaswerk.ch
+    bands:
+      - name: Viaticum
+        link: http://www.viaticumband.com/
+  - date: 2014-03-15T17:14:15+02:00
+    place: Helvti, Winterthur
+    link: http://winterthur-glossar.ch/app/default/pub/fw.action/wine.article?ce_id=372&ce_name=BUILDING
+    bands:
+      - name: Death of a Cheerleader
+        link: http://www.deathofacheerleader.net/
+  - date: 2013-12-28T17:14:15+02:00
+    place: Waldschenke, Winterthur
+    link: http://www.waldschenke-winterthur.ch/
+    bands:
+      - name: Insomania Utopia
+        link: http://insomaniautopia.blogspot.de/
+      - name: Garden In Time

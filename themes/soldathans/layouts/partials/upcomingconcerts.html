@@ -1,0 +1,7 @@
+<ul>
+    {{ range sort .concerts "date" "asc" }}
+    {{ if gt (time .date) now }}
+    {{ partial "concert.html" . }}
+    {{ end }}
+    {{ end }}
+</ul>

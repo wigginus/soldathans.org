@@ -1,0 +1,10 @@
+<li>
+    {{ (time .date) | dateFormat "02.01.2006" }}
+    {{ if isset . "link" }}
+    <a {{ if isset . "link" }} href="{{ .link }}" {{ end }}>{{ .place }}</a>,
+    {{ end }}
+    w/
+    {{ range .bands }}
+    <a {{ if isset . "link" }} href="{{ .link }}" {{ end }}>{{ .name }}</a>,
+    {{ end }}
+</li>

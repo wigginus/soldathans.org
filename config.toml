@@ -1,0 +1,4 @@
+baseURL = "https://soldathans.org/"
+languageCode = "en-us"
+title = "Soldat Hans"
+theme = "soldathans"

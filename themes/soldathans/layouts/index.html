@@ -1,0 +1,6 @@
+{{ partial "header.html" . }}
+<main>
+    {{ partial "upcomingconcerts.html" $.Site.Data.concerts }}
+    {{ partial "pastconcerts.html" $.Site.Data.concerts }}
+</main>
+{{ partial "footer.html" . }}
