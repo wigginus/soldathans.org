@@ -1,28 +1,126 @@
 concerts:
-  - date: 2018-12-13T17:14:15+02:00
-    place: TODOqwer
-    link: http://www.coq-d-or.ch/
+  - date: 2018-10-20T17:14:15+02:00
+    place: Dynamo, Zürich
+    link: http://dynamo.ch
     bands:
-      - name: Dummy1qewr
-        link: http://www.unholdmusic.ch/
-      - name: Change thisqwer
-        link: https://www.facebook.com/oregontrailmusic
-  - date: 2018-12-10T17:14:15+02:00
-    place: TODO
-    link: http://www.coq-d-or.ch/
+      - name: Toundra
+        link: http://www.toundra.es/
+      - name: Jaga Jazzist
+        link: http://jagajazzist.com/
+      - name: Mutiny On The Bounty
+        link: https://www.motb.net/
+      - name: Her Name Is Calla
+        link: http://www.hernameiscalla.uk/
+      - name: SPOIWO
+        link: https://spoiwo.bandcamp.com/
+      - name: Egopusher
+        link: http://www.egopusher.com/
+      - name: Our Next Movement
+        link: https://ournextmovement.bandcamp.com
+      - name: jeffk
+        link: http://jeffk-music.tumblr.com/
+      - name: H E X
+        link: https://www.h-e-x.ch/
+      - name: car crash weather
+        link: https://www.carcrashweather.com/
+      - name: Duara
+        link: https://duara.bandcamp.com/
+      - name: Preamp Disaster
+        link: http://www.preampdisaster.ch/
+  - date: 2018-10-21T17:14:15+02:00
+    place: Sanatorium, Winterthur
+    ? link
     bands:
-      - name: Dummy1
-        link: http://www.unholdmusic.ch/
-      - name: Change this
-        link: https://www.facebook.com/oregontrailmusic
-  - date: 2018-12-17T17:14:15+02:00
-    place: TODO2
-    link: http://www.coq-d-or.ch/
+      - name: jeffk
+        link: http://jeffk-music.tumblr.com/
+      - name: Astodan
+        link: https://astodan.bandcamp.com
+  - date: 2018-11-16T17:14:15+02:00
+    place: Horst Klub, Kreuzlingen
+    link: http://www.horstklub.ch
     bands:
-      - name: Dummy13
+      - name: Astroboy
+        link: https://astroboysfromspace.bandcamp.com/
+  - date: 2018-11-17T17:14:15+02:00
+    place: KAFF, Frauenfeld
+    link: https://kaff.ch/
+    bands:
+      - name: Rue des Cascades
+        link: https://ruedescascades.bandcamp.com/
+  - date: 2018-12-06T17:14:15+02:00
+    place: Bogen F, Zürich
+    link: http://www.bogenf.ch
+    bands:
+      - name: Esben and the Witch
+        link: http://esbenandthewitch.co.uk/
+  - date: 2018-04-28T17:14:15+02:00
+    place: Gaswerk, Winterthur
+    link: http://gaswerk.ch/
+    bands:
+      - name: Esben and the Witch
+        link: http://esbenandthewitch.co.uk/
+      - name: Wrekmeister Harmonies
+        link: https://wrekmeisterharmonies.bandcamp.com
+      - name: O
+        link: https://circularsign.bandcamp.com/
+      - name: Rue des Cascades
+        link: https://ruedescascades.bandcamp.com/
+      - name: Last Minute To Jaffna
+        link: http://www.lastminutetojaffna.com/
+  - date: 2018-12-08T17:14:15+02:00
+    place: Mukke Bude, Luzern
+    ? link
+    bands:
+      - name: shEver
+        link: http://www.shever.ch/
+      - name: Preamp Disaster
+        link: http://www.preampdisaster.ch/
+  - date: 2018-02-02T17:14:15+02:00
+    place: Dachstock, Bern
+    link: https://www.dachstock.ch
+    bands:
+      - name: Scott Kelly & John Judkins
+        link: https://www.facebook.com/ScottKelly.official
+  - date: 2018-01-26T17:14:15+02:00
+    place: Hirscheneck, Basel
+    link: http://www.hirscheneck.ch
+    bands:
+      - name: Krane
+        link: http://www.kraneband.ch/
+      - name: Steiner
+        link: https://www.facebook.com/steiner33/
+  - date: 2018-01-20T17:14:15+02:00
+    place: Torino
+    ? link
+    bands:
+      - name: Rue des Cascades
+        link: https://www.facebook.com/ruedescascades
+  - date: 2018-01-19T17:14:15+02:00
+    place: Bar Pepper, Massa Carrera
+    link: https://www.facebook.com/bar.pepper/
+    bands:
+      - name: Rue des Cascades
+        link: https://www.facebook.com/ruedescascades
+  - date: 2017-12-23T17:14:15+02:00
+    place: Kreuz Nidau, Biel
+    link: http://www.kreuz-nidau.ch/
+  - date: 2017-12-09T17:14:15+02:00
+    place: Grabenhalle, St. Gallen
+    link: http://www.grabenhalle.ch
+    bands:
+      - name: Unhold
         link: http://www.unholdmusic.ch/
-      - name: Change this123
-        link: https://www.facebook.com/oregontrailmusic
+      - name: Preamp Disaster
+        link: https://www.preampdisaster.ch/
+  - date: 2017-11-26T17:14:15+02:00
+    place: Villa K, Winterthur
+    link: http://villakwinti.blogspot.ch/"
+  - date: 2017-11-24T17:14:15+02:00
+    place: Trauma im G-Werk, Marburg
+    link: http://www.cafetrauma.de/
+    bands:
+      - name: Brache
+        link: https://www.facebook.com/bracheband
   - date: 2016-12-10T17:14:15+02:00
     place: Coq d'Or, Olten
     link: http://www.coq-d-or.ch/
