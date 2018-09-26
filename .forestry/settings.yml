@@ -9,6 +9,12 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  label: Data
+  path: data
+  match: "*.yaml"
+  new_doc_ext: ".yaml"
+  create: all
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
